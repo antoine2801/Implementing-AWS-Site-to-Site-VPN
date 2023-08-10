@@ -74,6 +74,7 @@ Config Route tables : Point private on-prem aws to  pfsense firewall
 <img src="https://i.imgur.com/9p9RYZV.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 
 Edit Security Group (Default onprem, onprem Router, Default aws)
+
 (1) Default aws
 <img src="https://i.imgur.com/W7ZTdwy.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 
@@ -81,6 +82,7 @@ Edit Security Group (Default onprem, onprem Router, Default aws)
 <img src="https://i.imgur.com/hlb44Zo.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 
 (3) onprem router 
+
 <img src="https://i.imgur.com/8Pl6LMz.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 
 
